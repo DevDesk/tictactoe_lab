@@ -1,0 +1,55 @@
+.clear{
+    clear:both;
+}
+
+#grid{
+    width: 620px;
+    vertical-align:center;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.grid-element{
+    width:200px;
+    float:left;
+    background-size:200px 200px;
+    background: (/img/white.jpg);
+    height: 200px;
+    font-size:72px;
+    text-align:center;
+}
+
+.verticalLineLeft {
+    border-left: thick solid #ff0000;
+}
+
+.verticalLineRight {
+    border-right: thick solid #ff0000;
+}
+
+.horizontalLineTop {
+    border-top: thick solid #ff0000;
+}
+
+.horizontalLineBottom {
+    border-bottom: thick solid #ff0000;
+}
+
+.top {
+    text-align:center;
+    font-size:48px;
+    margin-left:auto;
+    margin-right:auto;
+    font-family: 'Indie Flower', cursive;
+}
+
+.wrapper {
+    text-align:center;
+}
+
+.btn {
+    font-size:24px;
+    margin-left:auto;
+    margin-right:auto;
+    font-family: 'Indie Flower', cursive;
+}

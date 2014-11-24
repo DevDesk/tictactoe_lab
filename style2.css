@@ -1,0 +1,12 @@
+.clear{
+    clear:both;
+}
+
+#grid{
+    width: 600px;
+}
+
+.grid-element{
+    width:200px;
+    float:left;
+}
